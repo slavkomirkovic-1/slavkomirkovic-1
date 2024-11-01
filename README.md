@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Slavko</h1>
 <h3 align="center">Python developer interested in web scraping and automation</h3>
-
+<br>
 - 👯 I’m looking to collaborate on **web scraping projects**
 
 - 📫 How to reach me **tempdrivedude@gmail.com**
