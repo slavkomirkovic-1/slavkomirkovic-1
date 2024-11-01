@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Slavko</h1>
-<h3 align="center">A highly inspired python developer interested in web scraping and automation</h3>
+<h3 align="center">Python developer interested in web scraping and automation</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=slavkomirkovic-1&label=Profile%20views&color=0e75b6&style=flat" alt="slavkomirkovic-1" /> </p>
 
