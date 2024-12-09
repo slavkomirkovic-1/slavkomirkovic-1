@@ -34,7 +34,7 @@
 </p>
 <h3>Contact information</h3>
 <div style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center;">
-  <a href="mailto:tempdrivedude@gmail.com" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none; background-color: #D14836; color: white; padding: 10px 15px; border-radius: 5px; font-size: 14px; font-weight: bold;">
+  <a href="mailto:slavkomirkovic1224@gmail.com" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none; background-color: #D14836; color: white; padding: 10px 15px; border-radius: 5px; font-size: 14px; font-weight: bold;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40" style="margin-right: 8px;"/>
   </a>
   <a href="https://www.upwork.com/freelancers/~013c9a2788af27dff1" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none; background-color: #6fda44; color: white; padding: 10px 15px; border-radius: 5px; font-size: 14px; font-weight: bold;">
