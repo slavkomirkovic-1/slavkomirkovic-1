@@ -40,6 +40,9 @@
   <a href="https://www.upwork.com/freelancers/~013c9a2788af27dff1" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none; background-color: #6fda44; color: white; padding: 10px 15px; border-radius: 5px; font-size: 14px; font-weight: bold;">
     <img src="https://www.vectorlogo.zone/logos/upwork/upwork-icon.svg" alt="Upwork" width="40" height="40" style="margin-right: 8px;"/>
   </a>
+    <a href="https://www.fiverr.com/s/bdqPx0X" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none; background-color: #0077b5; color: white; padding: 10px 15px; border-radius: 5px; font-size: 14px; font-weight: bold;">
+    <img src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="LinkedIn" width="40" height="40" style="margin-right: 8px;"/>
+  </a>
   <a href="https://www.linkedin.com/in/slavko-mirkovic-633b6a339/" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none; background-color: #0077b5; color: white; padding: 10px 15px; border-radius: 5px; font-size: 14px; font-weight: bold;">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40" style="margin-right: 8px;"/>
   </a>
